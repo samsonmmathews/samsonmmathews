@@ -19,7 +19,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)-->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=samsonmmathews&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samsonmmathews/samsonmmathews/output/github-snake-dark.svg" />
