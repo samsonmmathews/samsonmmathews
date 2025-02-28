@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello There!, I'm Samson 👋🏼
 🖥️ Computer Engineer<br>🎮 Game Developer<br>📱 Mobile Applications Developer<br>👨‍💼 Project Manager
 
 
