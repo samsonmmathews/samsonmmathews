@@ -11,7 +11,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=samsonmmathews&theme=dark)<br/>
-<!--![](https://nirzak-streak-stats.vercel.app/?user=samsonmmathews&theme=dark)<br/>-->
+![](https://nirzak-streak-stats.vercel.app/?user=samsonmmathews&theme=dark)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samsonmmathews&theme=dark&layout=compact)
 
 <!--## 🏆 GitHub Trophies
