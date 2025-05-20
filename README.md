@@ -1,5 +1,9 @@
 # 💫 Hello There!, I'm Samson 👋🏼
-🖥️ Computer Engineer<br>🎮 Game Developer<br>📱 Mobile Applications Developer<br>👨‍💼 Project Manager
+<div>🖥️ Computer Engineer</div>
+<div>👨🏻‍💻 Web Developer</div>
+<div>🎮 Game Developer</div>
+<div>📱 Mobile Applications Developer</div>
+<div>👨‍💼 Project Manager</div>
 
 
 ## 🌐 Socials:
