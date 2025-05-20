@@ -3,7 +3,7 @@
 <div>👨🏻‍💻 Web Developer</div>
 <div>🎮 Game Developer</div>
 <div>📱 Mobile Applications Developer</div>
-<div>👨‍💼 Project Manager</div>
+<div>👨🏻‍💼 Project Manager</div>
 
 
 ## 🌐 Socials:
