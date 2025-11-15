@@ -19,14 +19,13 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=samsonmmathews&theme=dark)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samsonmmathews&theme=dark&layout=compact)
 
----
 
+![](https://komarev.com/ghpvc/?username=samsonmathews)
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=samsonmmathews&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 
 <!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-
 ---
 <!-- [![Years Badge](https://badges.pufler.dev/years/samsonmmathews)](https://badges.pufler.dev) -->
 
