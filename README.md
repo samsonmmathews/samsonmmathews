@@ -32,20 +32,23 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-samsonmathews.vercel.app/api?username=samsonmmathews&theme=dark)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=samsonmmathews&theme=dark)<br/>
+
 ![](https://github-readme-stats-samsonmathews.vercel.app/api/top-langs/?username=samsonmmathews&theme=dark&layout=compact)
 
 
 ![](https://komarev.com/ghpvc/?username=samsonmathews)
+[![Years Badge](https://badges.pufler.dev/years/samsonmmathews)](https://badges.pufler.dev)
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=samsonmmathews&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 
 <!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 ---
-<!-- [![Years Badge](https://badges.pufler.dev/years/samsonmmathews)](https://badges.pufler.dev) -->
 
-[![Samson's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samsonmathews&hide_border=true&bg_color=00000000&text_color=ffffff)](https://github.com/samsonmmathews/github-readme-stats)
+[![Samson's WakaTime Weekly Stats](https://github-readme-stats-samsonmathews.vercel.app/api/wakatime?username=samsonmathews&range=last_7_days&hide_border=true&bg_color=00000000&text_color=ffffff)](https://github.com/samsonmathews/github-readme-stats)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samsonmmathews/samsonmmathews/output/github-snake-dark.svg" />
